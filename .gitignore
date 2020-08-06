@@ -1,0 +1,10 @@
+# Emacs backup files
+*~
+*#
+.#*
+# Vim file artifacts
+.*.sw*
+# dictionary
+/bin
+/tmp
+*.tar
